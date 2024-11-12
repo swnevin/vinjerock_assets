@@ -128,7 +128,7 @@ let proactiveMessage = "Hei, eg hjelper deg gjerne!👋";
                 var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
                 v.onload = function() {
                     window.voiceflow.chat.load({
-                        verify: { projectID: '6731f899edb0f15aba630fef' },
+                        verify: { projectID: '67336fa58dabe37808e8e4ec' },
                         url: 'https://general-runtime.voiceflow.com',
                         versionID: 'production',
                         allowDangerousHTML: true,
